@@ -1,0 +1,78 @@
+html, body, #wrapper,
+#ZZ {
+	width: 100%; height: 100%;
+	overflow: hidden;
+	margin: 0; padding: 0; border: none;
+}
+div#wrapper,
+#ZZ {
+	background: #eee;
+	color: #444;
+	font-size: 13px;
+	line-height: 1.2;
+}
+#header,
+#ZZ {
+	width: 100%;
+	height: 28px; min-height: 28px;
+	border-width: 0 0 1px 0; border-style: solid; border-color: #ccc;
+	padding: 6px;
+}
+#header table,
+#ZZ {
+	width: 100%;
+}
+#header,
+#header-left,
+#header-right,
+#header .header-item,
+#header table,
+#header td,
+#ZZ {
+	vertical-align: top;
+}
+#header-left,
+#ZZ {
+	text-align: left;
+	width: 80%;
+}
+#header-right table,
+#ZZ {
+	min-width: 300px;
+}
+#header-right .header-item,
+#ZZ {
+	text-align: right;
+	white-space: nowrap !important;
+	padding-left: 10px;
+}
+
+#addthis-box,
+#ZZ {
+	min-width: 130px;
+	max-width: 150px;
+	max-height: 16px;
+	line-height: 16px;
+	color: #eee;
+}
+#addthis-box div.addthis_toolbox,
+#addthis-box div.addthis_default_style,
+#addthis-box div.addthis_16x16_style
+#ZZ {
+	width: 130px !important;
+	white-space: nowrap !important;
+}
+div.atclear,
+#ZZ {
+	width: 0 !important;
+	clear: none !important;
+}
+
+#content,
+#ZZ {
+	height: 95%;
+}
+#content-frame,
+#ZZ {
+	background: #fff; border: none; height: 100%; overflow: auto; width: 100%;" width="100%
+}

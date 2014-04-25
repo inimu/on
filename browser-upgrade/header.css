@@ -1,0 +1,57 @@
+#wrapper,
+#ZZ {
+	background: #eee;
+	color: #444;
+	font-size: 13px;
+	line-height: 1.2;
+	padding: 6px;
+}
+#wrapper table,
+#ZZ {
+	width: 100%;
+}
+#wrapper,
+#left,
+#right,
+.itembox,
+table,
+td,
+#ZZ {
+	vertical-align: top;
+}
+#left,
+#ZZ {
+	text-align: left;
+	width: 80%;
+}
+#right table,
+#ZZ {
+	min-width: 300px;
+}
+#right .itembox,
+#ZZ {
+	text-align: right;
+	white-space: nowrap !important;
+	padding-left: 10px;
+}
+
+#addthis-box,
+#ZZ {
+	min-width: 130px;
+	max-width: 150px;
+	max-height: 16px;
+	line-height: 16px;
+	color: #eee;
+}
+#addthis-box div.addthis_toolbox,
+#addthis-box div.addthis_default_style,
+#addthis-box div.addthis_16x16_style
+#ZZ {
+	width: 130px !important;
+	white-space: nowrap !important;
+}
+#addthis-box div.atclear,
+#ZZ {
+	width: 0 !important;
+	clear: none !important;
+}
